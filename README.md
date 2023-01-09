@@ -5,4 +5,4 @@ Classification / clustering the customers are alwys useful, so the respective or
 
 Clustering have been done in a way wr.t to the spending score and annual income, thus we can infer the average of people who spend the most, and even the age is taken for clustering w.r.t to the spending score, thus we can infer the age group where most spending has taken place.
 
-K-means algorithm is used mainly for the clustering
+K-means algorithm is used for the clustering, we can visualize the clustering using ggplot
